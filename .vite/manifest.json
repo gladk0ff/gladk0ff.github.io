@@ -1,0 +1,73 @@
+{
+  "_ant-3TFSqzKL.js": {
+    "file": "assets/ant-3TFSqzKL.js",
+    "name": "ant",
+    "imports": [
+      "_react-Dm8snE5z.js"
+    ]
+  },
+  "_browser-DlWDlnnx.js": {
+    "file": "assets/browser-DlWDlnnx.js",
+    "name": "browser",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-Dm8snE5z.js"
+    ]
+  },
+  "_react-Dm8snE5z.js": {
+    "file": "assets/react-Dm8snE5z.js",
+    "name": "react"
+  },
+  "_recharts-3qghCK3T.js": {
+    "file": "assets/recharts-3qghCK3T.js",
+    "name": "recharts",
+    "imports": [
+      "_react-Dm8snE5z.js"
+    ]
+  },
+  "_supabase-7q-5WrAP.js": {
+    "file": "assets/supabase-7q-5WrAP.js",
+    "name": "supabase",
+    "imports": [
+      "_tanstack-BjdLQ5hw.js"
+    ],
+    "dynamicImports": [
+      "_browser-DlWDlnnx.js"
+    ]
+  },
+  "_tanstack-BjdLQ5hw.js": {
+    "file": "assets/tanstack-BjdLQ5hw.js",
+    "name": "tanstack",
+    "imports": [
+      "_react-Dm8snE5z.js"
+    ]
+  },
+  "images/back.png": {
+    "file": "assets/images/back.png",
+    "src": "images/back.png"
+  },
+  "images/favicon.ico": {
+    "file": "assets/favicon-DqlWK80v.ico",
+    "src": "images/favicon.ico"
+  },
+  "index.html": {
+    "file": "assets/index-C0cSuPYT.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_tanstack-BjdLQ5hw.js",
+      "_react-Dm8snE5z.js",
+      "_supabase-7q-5WrAP.js",
+      "_ant-3TFSqzKL.js",
+      "_recharts-3qghCK3T.js"
+    ],
+    "css": [
+      "assets/index-BaV_OHA-.css"
+    ],
+    "assets": [
+      "assets/images/back.png",
+      "assets/favicon-DqlWK80v.ico"
+    ]
+  }
+}
