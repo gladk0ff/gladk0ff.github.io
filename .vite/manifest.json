@@ -1,6 +1,6 @@
 {
-  "_ant-3TFSqzKL.js": {
-    "file": "assets/ant-3TFSqzKL.js",
+  "_ant-DX90G8fV.js": {
+    "file": "assets/ant-DX90G8fV.js",
     "name": "ant",
     "imports": [
       "_react-Dm8snE5z.js"
@@ -51,7 +51,7 @@
     "src": "images/favicon.ico"
   },
   "index.html": {
-    "file": "assets/index-C0cSuPYT.js",
+    "file": "assets/index-CMzyNJ2-.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -59,11 +59,11 @@
       "_tanstack-BjdLQ5hw.js",
       "_react-Dm8snE5z.js",
       "_supabase-7q-5WrAP.js",
-      "_ant-3TFSqzKL.js",
+      "_ant-DX90G8fV.js",
       "_recharts-3qghCK3T.js"
     ],
     "css": [
-      "assets/index-BaV_OHA-.css"
+      "assets/index-BHtlxo9L.css"
     ],
     "assets": [
       "assets/images/back.png",
