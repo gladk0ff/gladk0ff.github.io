@@ -1,6 +1,6 @@
 {
-  "_ant-D2no9CGS.js": {
-    "file": "assets/ant-D2no9CGS.js",
+  "_ant-awpvaHv7.js": {
+    "file": "assets/ant-awpvaHv7.js",
     "name": "ant",
     "imports": [
       "_react-Dm8snE5z.js"
@@ -18,8 +18,8 @@
     "file": "assets/react-Dm8snE5z.js",
     "name": "react"
   },
-  "_recharts-3qghCK3T.js": {
-    "file": "assets/recharts-3qghCK3T.js",
+  "_recharts-B-HRoCR9.js": {
+    "file": "assets/recharts-B-HRoCR9.js",
     "name": "recharts",
     "imports": [
       "_react-Dm8snE5z.js"
@@ -51,7 +51,7 @@
     "src": "images/favicon.ico"
   },
   "index.html": {
-    "file": "assets/index-CmX0U2g-.js",
+    "file": "assets/index-Db0sPLdf.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -59,8 +59,8 @@
       "_tanstack-BjdLQ5hw.js",
       "_react-Dm8snE5z.js",
       "_supabase-7q-5WrAP.js",
-      "_ant-D2no9CGS.js",
-      "_recharts-3qghCK3T.js"
+      "_ant-awpvaHv7.js",
+      "_recharts-B-HRoCR9.js"
     ],
     "css": [
       "assets/index-BfjpHcWv.css"
