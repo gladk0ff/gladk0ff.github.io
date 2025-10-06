@@ -42,6 +42,26 @@
       "_react-Dm8snE5z.js"
     ]
   },
+  "fonts/Roboto-Bold.woff": {
+    "file": "assets/Roboto-Bold-DtdHS0Bf.woff",
+    "src": "fonts/Roboto-Bold.woff"
+  },
+  "fonts/Roboto-Light.woff2": {
+    "file": "assets/fonts/Roboto-Light.woff2",
+    "src": "fonts/Roboto-Light.woff2"
+  },
+  "fonts/Roboto-Medium.woff": {
+    "file": "assets/Roboto-Medium-CjrmA6ih.woff",
+    "src": "fonts/Roboto-Medium.woff"
+  },
+  "fonts/Roboto-Regular.woff2": {
+    "file": "assets/fonts/Roboto-Regular.woff2",
+    "src": "fonts/Roboto-Regular.woff2"
+  },
+  "fonts/Roboto-Thin.woff2": {
+    "file": "assets/fonts/Roboto-Thin.woff2",
+    "src": "fonts/Roboto-Thin.woff2"
+  },
   "images/back.png": {
     "file": "assets/images/back.png",
     "src": "images/back.png"
@@ -51,7 +71,7 @@
     "src": "images/favicon.ico"
   },
   "index.html": {
-    "file": "assets/index-WZ0FDz_y.js",
+    "file": "assets/index-Dm5djpqa.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -63,10 +83,15 @@
       "_recharts-B-HRoCR9.js"
     ],
     "css": [
-      "assets/index-DBeZ5E71.css"
+      "assets/index-BkCRgD_b.css"
     ],
     "assets": [
       "assets/images/back.png",
+      "assets/fonts/Roboto-Regular.woff2",
+      "assets/fonts/Roboto-Light.woff2",
+      "assets/fonts/Roboto-Thin.woff2",
+      "assets/Roboto-Medium-CjrmA6ih.woff",
+      "assets/Roboto-Bold-DtdHS0Bf.woff",
       "assets/favicon-DqlWK80v.ico"
     ]
   }
